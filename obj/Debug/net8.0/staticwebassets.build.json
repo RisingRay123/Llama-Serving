@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zA2t6p2LJziApApCtwzwxd17tpoUsOVDUmhqIC61Oxs=",
+  "Source": "llamaServing",
+  "BasePath": "_content/llamaServing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@llamaServing_HostAddress = http://localhost:5204
+
+GET {{llamaServing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
